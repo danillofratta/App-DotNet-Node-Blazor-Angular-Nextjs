@@ -68,4 +68,5 @@ Next steps to be implemented:
 3. Create a separate schedule unlinked to the professional's schedule
 
 
- 
+ ![image](https://github.com/user-attachments/assets/1eaad2eb-6469-406f-b088-58d460bf48b4)
+
